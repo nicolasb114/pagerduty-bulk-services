@@ -1,0 +1,7 @@
+{
+  "api_key": "YOUR_PAGERDUTY_API_KEY",
+  "alert_grouping_type": "intelligent",
+  "auto_pause_notifications_enabled": true,
+  "rate_limit_requests_per_second": 5,
+  "max_retry_attempts": 3
+}
